@@ -543,8 +543,8 @@ function yourls_kses_allowed_protocols() {
 		'aim:', 'facetime://', 'gtalk:', 'xmpp:',
 		'irc://', 'ircs://', 'mumble://', 
 		'callto:', 'skype:', 'sip:',
-		'teamspeak://', 'ventrilo://', 'xfire:', 
-		'ymsgr:', 
+		'teamspeak://', 'tel:', 'ventrilo://', 'xfire:', 
+		'ymsgr:', 'tg://', 'whatsapp://',
 
 		// Misc
 		'steam:', 'steam://',
